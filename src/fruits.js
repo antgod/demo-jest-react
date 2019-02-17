@@ -1,0 +1,23 @@
+export default [
+  'Apple 苹果',
+  'Arbutus 杨梅',
+  'Banana 香蕉',
+  'Bennet 水杨梅',
+  'Berry 桨果',
+  'Blackberry 刺梅',
+  'Cherry 樱桃',
+  'Coconut 椰子',
+  'Cucumber 黄瓜',
+  'Durian 榴莲',
+  'Grape 葡萄',
+  'Lemon 柠檬',
+  'Lichee 荔枝',
+  'Mango 芒果',
+  'Orange 橙子',
+  'Peach 桃子',
+  'Peanut 花生',
+  'Pear 梨',
+  'Strawberry 草莓',
+  'Watermelon 西瓜',
+]
+

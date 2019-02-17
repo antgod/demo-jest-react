@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`正确的渲染 1`] = `
+<li
+  className="item"
+  onClick={[Function]}
+>
+  <span
+    className="child"
+  >
+    child
+  </span>
+  test
+</li>
+`;

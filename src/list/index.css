@@ -1,0 +1,16 @@
+.list {
+    height: 200px;
+    width: 100%;
+    overflow: scroll;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    background: #fff;
+    list-style: none;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.item {
+    padding: 4px 10px;
+    font-size: 18px;
+}
